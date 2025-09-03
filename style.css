@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: yellow;
+    background-image: url('img/chromalte.jpeg');
+    background-size: contain;
+    background-position: center;
+    
+}
+main{
+
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    /* background-color: brown; */
+    flex-direction: column;
+    height: 1150px;
+    justify-content: space-between;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+.Fuscas{
+
+    display: flex;
+    text-align: start;
+    background-color: aquamarine;
+    width: 1000px;
+    height: 250px;
+    position: relative;
+    justify-content: space-between;
+    padding-top: 45px;
+    
+
+
+}
+.Fuscas:hover{
+    padding: 64px 8px;
+}
+.fusca-preto{
+    height: 160px;
+    border-radius: 10px;
+}
+.fusca-rebaixado{
+    height: 160px;
+    border-radius: 10px;
+}
+.fusca-rebaixado2{
+    height: 160px;
+    border-radius: 10px;
+}
+img{
+    width: 200px;
+    transition: 1s;
+}
+.img:hover{
+    width: 100px;
+}
+.Fuscas2{
+    display: flex;
+    text-align: start;
+    background-color: aquamarine;
+    width: 1000px;
+    height: 250px;
+    position: relative;
+    justify-content: space-between;
+    padding-top: 45px;
+    
+
+}
+.fusca-vermelho{
+    height: 160px;
+    border-radius: 10px;
+}
+.fusca-beje{
+    height: 160px;
+    border-radius: 10px;
+}
+.fusca-conversivel{
+    height: 160px;
+    border-radius: 10px;
+}
+
