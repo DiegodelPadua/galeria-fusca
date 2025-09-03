@@ -32,7 +32,6 @@ h1{
 
     display: flex;
     text-align: start;
-    background-color: aquamarine;
     width: 1000px;
     height: 250px;
     position: relative;
@@ -67,7 +66,6 @@ img{
 .Fuscas2{
     display: flex;
     text-align: start;
-    background-color: aquamarine;
     width: 1000px;
     height: 250px;
     position: relative;
